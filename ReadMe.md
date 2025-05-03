@@ -6,6 +6,7 @@
 
 An advanced and customizable **Green Zone System** that automatically removes player masks inside designated safe zones. Designed for performance and flexibility with multi-language support.
 
+<img src ="https://imgur.com/a/6FOLzEc">
 
 ## ✨ Features
 
