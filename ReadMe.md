@@ -6,7 +6,8 @@
 
 An advanced and customizable **Green Zone System** that automatically removes player masks inside designated safe zones. Designed for performance and flexibility with multi-language support.
 
-<img src ="https://imgur.com/a/6FOLzEc">
+![QSfiveM](https://github.com/user-attachments/assets/497cc1b4-bc46-4c7c-ba95-4b3e64306b25)
+
 
 ## ✨ Features
 
